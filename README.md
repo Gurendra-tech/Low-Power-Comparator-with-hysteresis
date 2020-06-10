@@ -19,4 +19,4 @@ This project is developed on Opensource tool LTSPICEXVII Tool. In this Comparato
 
 # Contact information
 ->G.V.Gurendra Babu, B.Tech Electronics and Communications Engineering (ECE) VLITS-Guntur, gurendra611@gmail.com.
--> KunalGosh Director,VSD Corp. Pvt. Ltd.Kunalgosh@gmail.com.
+->Kunal
