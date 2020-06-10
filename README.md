@@ -24,4 +24,5 @@ This project is developed on Opensource tool LTSPICEXVII Tool. In this Comparato
 
 -> PHILIPP GUHRING Software Architect at LibreSilicon Association pg@futureware.at
 
--> Dr. GAURAV TRIVEDI Co-Principal Investigator,ECIT Academy and Associative Professor, EEE Department, IIT Guwahati trivedi@iitg.ac.in
+-> Dr. GAURAV TRIVEDI Co-Principal Investigator,ECIT Academy and Associative Professor, EEE Department,
+IIT Guwahati trivedi@iitg.ac.in
