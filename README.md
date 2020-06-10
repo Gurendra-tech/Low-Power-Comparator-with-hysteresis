@@ -2,4 +2,4 @@
 This project is developed on Opensource tool LTSPICEXVII Tool. In this Comparator output is given with Hystersis
 
 ___
-Set Up for Simulation
+# Set Up for Simulation
