@@ -2,8 +2,8 @@
 This project is developed on Opensource tool LTSPICEXVII Tool. In this Comparator output is given with Hystersis
 
 # Installing of LTSPICE XVII
-1. Download LTSPICEXVII from any available site as per you OS.
-2. If you dowloaded the .exe  file a window will pop-up which will show lincence agreement. Click on accept 
+1. Download LTSPICEXVII from https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html as per you OS.
+2. If you dowloaded the .exe  file a window will pop-up which will show licence agreement. Click on accept 
 3. Choose the Version of your PC and Click on the Install.
 
 # Setup for Simulation
