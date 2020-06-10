@@ -17,6 +17,6 @@ This project is developed on Opensource tool LTSPICEXVII Tool. In this Comparato
 8. Now give rightclick on the Horizontal axis and Horizontal axis window will pop-up.
 9. Paste the V(in+) you will see the Hystersis waveform.
 
-# Contact information
-->G.V.Gurendra Babu, B.Tech Electronics and Communications Engineering (ECE) VLITS-Guntur, gurendra611@gmail.com.
-->Kunal
+# Contact Information
+-> G.V.Gurendra Babu B.Tech (Electronics and Communication Engineering) VLITS, Guntur gurendra611@gmail.com.
+-> Kunalgosh Director VSD Corp.Pvt.ltd
