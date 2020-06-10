@@ -1,11 +1,11 @@
 # Lower power current programmable CMOS comparator with hysteresis
 This project is developed on Opensource tool LTSPICEXVII Tool. In this Comparator output is given with Hystersis
-__
+
 # Installing of LTSPICE XVII
 1. Download LTSPICEXVII from any available site as per you OS.
 2. If you dowloaded the .exe  file a window will pop-up which will show lincence agreement. Click on accept 
 3. Choose the Version of your PC and Click on the Install.
-___
+
 # Setup for Simulation
 1. To draw the Circut go to file -> new Scematic.
 2. Drw the Sechmatic and Save (Ctrl+s).
@@ -16,3 +16,8 @@ ___
 7. To see Hystersis Waveform right click on the input waveform V(in+) and copy V(in+) and click on the Delete the trace.
 8. Now give rightclick on the Horizontal axis and Horizontal axis window will pop-up.
 9. Paste the V(in+) you will see the Hystersis waveform.
+
+# Contact information
+-> G.V.Gurendra Babu B.Tech Electronics and Communications Engineering (ECE) VLITS-Guntur gurendra611@gmail.com
+-> KUNAL GHOSH Director,VSD Corp. Pvt. Ltd. Kunalgosh@gmail.com
+->PHILIPP GUHRING Software Architect at LibreSilicon Association pg@futureware.at
