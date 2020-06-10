@@ -18,7 +18,5 @@ This project is developed on Opensource tool LTSPICEXVII Tool. In this Comparato
 9. Paste the V(in+) you will see the Hystersis waveform.
 
 # Contact information
--> G.V.Gurendra Babu B.Tech Electronics and Communications Engineering (ECE) VLITS-Guntur gurendra611@gmail.com.
--> KUNAL GHOSH Director,VSD Corp. Pvt. Ltd. Kunalgosh@gmail.com.
--> PHILIPP GUHRING Software Architect at LibreSilicon Association pg@futureware.at.
--> Dr. GAURAV TRIVEDI Co-Principal Investigator,ECIT Academy and Associative Professor, EEE Department, IIT Guwahati trivedi@iitg.ac.in.
+-> G.V.Gurendra Babu B.Tech Electronics and Communications Engineering (ECE) VLITS-Guntur gurendra611@gmail.com
+-> Kunal
