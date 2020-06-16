@@ -1,5 +1,5 @@
 # Lower power current programmable CMOS comparator with hysteresis
-This project is developed on Opensource tool LTSPICEXVII Tool. In this Comparator output is given with Hystersis
+This project is developed on LTSPICEXVII Tool. In this Comparator output is given with Hystersis
 
 # Installing of LTSPICE XVII
 1. Download LTSPICEXVII from https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html as per you OS.
