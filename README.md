@@ -20,6 +20,7 @@ This project is developed on LTSPICEXVII Tool. In this Comparator output is give
 8. Now give rightclick on the Horizontal axis and Horizontal axis window will pop-up.
 9. Paste the V(in+) you will see the Hystersis waveform.
 
+<img src = "hystersis.png">
 # Contact Information
 -> G.V.Gurendra Babu B.Tech (Electronics and Communication Engineering) VLITS, Guntur gurendra611@gmail.com 
 
