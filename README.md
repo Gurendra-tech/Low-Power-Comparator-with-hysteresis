@@ -13,7 +13,6 @@ This project is developed on LTSPICEXVII Tool. In this Comparator output is give
 4. To Open the file go to file - open(Ctrl-O) - open the Comparator.asc.
 5. To see output and Input waveform click on the Simulate - run.
 6. Click on the Vout and V(in+) you will see the output and input waveforms.
-
 <img src="op-ip.png">
 
 7. To see Hystersis Waveform right click on the input waveform V(in+) and copy V(in+) and click on the Delete the trace.
@@ -21,6 +20,7 @@ This project is developed on LTSPICEXVII Tool. In this Comparator output is give
 9. Paste the V(in+) you will see the Hystersis waveform.
 
 <img src = "hystersis.png">
+
 # Contact Information
 -> G.V.Gurendra Babu B.Tech (Electronics and Communication Engineering) VLITS, Guntur gurendra611@gmail.com 
 
